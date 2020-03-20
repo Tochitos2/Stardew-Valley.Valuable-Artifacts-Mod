@@ -1,0 +1,2 @@
+rmdir "C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods\[CP] ValuableArtifacts"
+Xcopy /E /I "[CP] ValuableArtifacts" "C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods\[CP] ValuableArtifacts"
