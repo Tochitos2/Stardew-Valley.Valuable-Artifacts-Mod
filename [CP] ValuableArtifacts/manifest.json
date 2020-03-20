@@ -1,0 +1,13 @@
+﻿{
+  "Name": "ValuableArtifacts",
+  "Author": "Tochitos2",
+  "Version": "1.0.0",
+  "Description": "A Content Patcher pack that increases the sell prices of various artifacts.",
+  "UniqueID": "Tochitos2.ValuableArtifacts",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher", 
+    "MinimumVersion": "1.9.2" 
+  }
+}
