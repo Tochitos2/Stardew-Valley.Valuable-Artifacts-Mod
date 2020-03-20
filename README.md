@@ -1,0 +1,1 @@
+# Stardew-Valley.Valuable-Artifacts-Mod
